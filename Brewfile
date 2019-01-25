@@ -25,6 +25,7 @@ brew readline
 brew sqlite
 brew tfenv
 brew unibilium
+brew watch
 brew xz
 
 tap homebrew/cask
