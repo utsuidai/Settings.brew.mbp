@@ -4,6 +4,7 @@
 tap homebrew/core
 brew autoconf
 brew bash-completion
+brew coreutils
 brew direnv
 brew gettext
 brew gnu-sed
