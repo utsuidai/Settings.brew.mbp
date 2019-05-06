@@ -55,6 +55,7 @@ cask firefox
 cask kindle
 cask slack
 cask typora
+cask vlc
 
 # App Store applications
 appstore 408981434  (10.1.11)
@@ -62,7 +63,7 @@ appstore 497799835  (10.2.1)
 appstore 682658836  (10.3.2)
 appstore 784801555  (16.24)
 appstore 896624060  (2.3.8)
-appstore 441258766  (2.4.2)
+appstore 441258766  (2.4.3)
 appstore 425955336  (2.8.2)
 appstore 638161122  (3.1.24)
 appstore 404167149  (3.71)
