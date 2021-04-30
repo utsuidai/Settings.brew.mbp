@@ -2,18 +2,69 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew autoconf
+brew bash-completion
+brew coreutils
+brew direnv
+brew embulk
+brew freetype
 brew gdbm
+brew gettext
+brew gnu-sed
+brew goenv
+brew jemalloc
+brew jq
+brew libpng
+brew libtermkey
+brew libuv
+brew libvterm
+brew luajit
+brew luajit-openresty
+brew luv
+brew m4
 brew mas
 brew mpdecimal
+brew msgpack
+brew mysql@5.7
+brew ncurses
+brew neovim
+brew netperf
+brew node-build
+brew nodenv
+brew oniguruma
+brew openjdk@8
 brew openssl@1.1
+brew pandoc
+brew pkg-config
+brew pyenv
+brew pyenv-virtualenv
+brew pyenv-virtualenvwrapper
+brew python@3.8
 brew python@3.9
+brew rbenv
 brew readline
+brew ruby-build
 brew sqlite
+brew tcl-tk
+brew tfenv
+brew unibilium
+brew watch
 brew xz
 
 tap homebrew/cask-versions
+cask adoptopenjdk8
 
 tap homebrew/cask
+cask chromium
+cask docker
+cask firefox
+cask google-chrome
+cask kindle
+cask obs
+cask obs-virtualcam
+cask slack
+cask typora
+cask visual-studio-code
 
 tap argon/mas
 
