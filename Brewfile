@@ -4,6 +4,7 @@
 tap homebrew/core
 brew autoconf
 brew bash-completion
+brew ca-certificates
 brew coreutils
 brew direnv
 brew embulk
@@ -74,21 +75,21 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 1333542190 1Password 7 (7.8.1)
-appstore 406056744 Evernote (10.12.5)
-appstore 503039729 Fotor Photo Editor (3.8.1)
-appstore 682658836 GarageBand (10.4.3)
-appstore 408981434 iMovie (10.2.3)
-appstore 404167149 IP Scanner (4)
-appstore 409183694 Keynote (11.0.1)
+appstore 1333542190 1Password 7 (7.9.2)
+appstore 406056744 Evernote (10.29.7)
+appstore 503039729 Fotor Photo Editor (4.2.3)
+appstore 682658836 GarageBand (10.4.5)
+appstore 408981434 iMovie (10.3.1)
+appstore 404167149 IP Scanner (4.05)
+appstore 409183694 Keynote (11.2)
 appstore 896624060 Kobito (2.3.8)
-appstore 441258766 Magnet (2.6.0)
+appstore 441258766 Magnet (2.7.0)
 appstore 1480068668 Messenger (97.11.116)
-appstore 784801555 Microsoft OneNote (16.48)
+appstore 784801555 Microsoft OneNote (16.57)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
-appstore 409203825 Numbers (11.0)
-appstore 409201541 Pages (11.0)
+appstore 409203825 Numbers (11.2)
+appstore 409201541 Pages (11.2)
 appstore 425955336 Skitch (2.9)
-appstore 1153157709 Speedtest (1.20)
-appstore 497799835 Xcode (12.4)
+appstore 1153157709 Speedtest (1.24)
+appstore 497799835 Xcode (13.2.1)
 appstore 638161122 YubiKey Personalization Tool (3.1.24)
